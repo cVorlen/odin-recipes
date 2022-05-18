@@ -1,0 +1,1 @@
+This project puts my HTML knowledge into practice, which was strengthened with the information on the Odin Website.S
